@@ -1,1 +1,0 @@
-interface Motorized { void startEngine(); }
