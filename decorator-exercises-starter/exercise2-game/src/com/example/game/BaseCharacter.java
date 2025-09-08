@@ -20,11 +20,17 @@ public class BaseCharacter implements Character {
     }
 
     @Override
-    public int getSpeed() { return speed; }
+    public int getSpeed() {
+        return speed;
+    }
 
     @Override
-    public int getDamage() { return damage; }
+    public int getDamage() {
+        return damage;
+    }
 
     @Override
-    public String getSprite() { return sprite; }
+    public String getSprite() {
+        return sprite;
+    }
 }
